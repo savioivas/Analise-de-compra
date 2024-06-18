@@ -15,5 +15,5 @@
 >O objetivo é entregar uma análise de comportamento de compra dos consumidores. Esse é um tipo de atividade comum realizado por<b> Cientistas de Dados </b>e o resultado deste trabalho pode ser usado, por exemplo, para alimentar um modelo de<b> Machine Learning</b> e fazer previsões sobre comportamentos futuros.
 
 > Iremos analisar o comportamento de compra dos consumidores utilizado o pacote Pandas do Python contendo a resposta para os seguintes itens:</h3>
->
-> 
+
+
