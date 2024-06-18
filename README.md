@@ -16,4 +16,7 @@
 
 > Iremos analisar o comportamento de compra dos consumidores utilizado o pacote Pandas do Python contendo a resposta para os seguintes itens:</h3>
 
+## 🚀 Linguagem de Programação
+
+
 
