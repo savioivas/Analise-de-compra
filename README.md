@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/rhatiro/Credit-score/main/ebac-course-utils/media/logo/newebac_logo_black_half.png" alt="ebac-logo">
 ---
-sdfghjkl
 
 # **Profissão: Cientista de Dados**
 ## Projeto #01 | Análise de compras
